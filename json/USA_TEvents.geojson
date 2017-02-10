@@ -1,0 +1,6 @@
+{ "type" : "FeatureCollection" , "features" : [ { "type" : "Feature" , "geometry" : {  "type" : "Point"  "coordinates" : [-89.176269,37.005105] } , "properties" : {  "year" : "1970", "deaths" : "0.0", "weapon" : "Firearms" }}
+{ "type" : "Feature" , "geometry" : {  "type" : "Point"  "coordinates" : [-122.273024,37.805065] } , "properties" : {  "year" : "1970", "deaths" : "0.0", "weapon" : "Explosives/Bombs/Dynamite" }},
+{ "type" : "Feature" , "geometry" : {  "type" : "Point"  "coordinates" : [-89.412488,43.076592] } , "properties" : {  "year" : "1970", "deaths" : "0.0", "weapon" : "Incendiary" }},
+{ "type" : "Feature" , "geometry" : {  "type" : "Point"  "coordinates" : [-89.386694,43.07295] } , "properties" : {  "year" : "1970", "deaths" : "0.0", "weapon" : "Incendiary" }},
+{ "type" : "Feature" , "geometry" : {  "type" : "Point"  "coordinates" : [-89.744299,43.4685] } , "properties" : {  "year" : "1970", "deaths" : "0.0", "weapon" : "Explosives/Bombs/Dynamite" }},
+{ "type" : "Feature" , "geometry" : {  "type" : "Point"  "coordinates" : [-121.452503,37.764563] } , "properties" : {  "year" : "2015", "deaths" : "0.0", "weapon" : "Incendiary" }}] }
