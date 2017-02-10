@@ -1204,8 +1204,6 @@
 { "type" : "Feature" , "geometry" : {  "type" : "Point" , "coordinates" : [-83.987994,33.952465] } , "properties" : {  "year" : "1978", "deaths" : "0.0", "weapon" : "Firearms" }},
 { "type" : "Feature" , "geometry" : {  "type" : "Point" , "coordinates" : [-122.419644,37.777125] } , "properties" : {  "year" : "1978", "deaths" : "0.0", "weapon" : "Explosives/Bombs/Dynamite" }},
 { "type" : "Feature" , "geometry" : {  "type" : "Point" , "coordinates" : [-104.992259,39.74001] } , "properties" : {  "year" : "1978", "deaths" : "1.0", "weapon" : "Explosives/Bombs/Dynamite" }},
- , "properties" : {  "year" : "1978", "deaths" : "0.0", "weapon" : "Incendiary" }},
-{ "type" : "Feature" , "g{ "type" : "Feature" , "geometry" : {  "type" : "Point" , "coordinates" : [-73.806984,40.895354] } , "properties" : {  "year" : "1978", "deaths" : "0.0", "weapon" : "Incendiary" }},
 { "type" : "Feature" , "geometry" : {  "type" : "Point" , "coordinates" : [-74.005941,40.712784] } , "properties" : {  "year" : "1978", "deaths" : "0.0", "weapon" : "Explosives/Bombs/Dynamite" }},
 { "type" : "Feature" , "geometry" : {  "type" : "Point" , "coordinates" : [-73.213234,44.47592] } , "properties" : {  "year" : "1978", "deaths" : "0.0", "weapon" : "Incendiary" }},
 { "type" : "Feature" , "geometry" : {  "type" : "Point" , "coordinates" : [-73.778139,40.641311] } , "properties" : {  "year" : "1978", "deaths" : "0.0", "weapon" : "Explosives/Bombs/Dynamite" }},
@@ -2411,8 +2409,3 @@
 { "type" : "Feature" , "geometry" : {  "type" : "Point" , "coordinates" : [-116.187442,33.69288] } , "properties" : {  "year" : "2015", "deaths" : "0.0", "weapon" : "Incendiary" }},
 { "type" : "Feature" , "geometry" : {  "type" : "Point" , "coordinates" : [-121.452503,37.764563] } , "properties" : {  "year" : "2015", "deaths" : "0.0", "weapon" : "Incendiary" }},
 { "type" : "Feature" , "geometry" : {  "type" : "Point" , "coordinates" : [-121.452503,37.764563] } , "properties" : {  "year" : "2015", "deaths" : "0.0", "weapon" : "Incendiary" }}] }
-7924,34.07577] } , "properties" : {  "year" : "2015", "deaths" : "16.0", "weapon" : "Explosives/Bombs/Dynamite" }},
-{ "type" : "Feature" , "geometry" : {  "type" : "Point" , "coordinates" : [-73.91357,40.781593] } , "properties" : {  "year" : "2015", "deaths" : "0.0", "weapon" : "Melee" }},
-{ "type" : "Feature" , "geometry" : {  "type" : "Point" , "coordinates" : [-97.044649,47.900053] } , "properties" : {  "year" : "2015", "deaths" : "0.0", "weapon" : "Incendiary" }},
-{ "type" : "Feature" , "geometry" : {  "type" : "Point" , "coordinates" : [-116.187442,33.69288] } , "properties" : {  "year" : "2015", "deaths" : "0.0", "weapon" : "Incendiary" }},
-{ "type" : "Feature" , "geometry" : {  "type" : "Point" , "coordinates" : [-121.452503,37.764563] } , "properties" : {  "year" : "2015", "deaths" : "0.0", "weapon" : "Incendiary
